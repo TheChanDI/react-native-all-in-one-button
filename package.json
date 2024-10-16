@@ -1,0 +1,26 @@
+{
+  "name": "@TheChanDI/react-native-all-in-one-button",
+  "version": "1.0.0",
+  "description": "This is all in one package for all buttons you can imagined.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "buttons",
+    "react-native"
+  ],
+  "author": "Prakash Chandra Awal",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.3.11",
+    "react": "^18.3.1",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "react-native": "^0.75.4"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/TheChanDI"
+  }
+}
